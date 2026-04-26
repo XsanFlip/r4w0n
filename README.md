@@ -48,7 +48,7 @@ Ensure you have **Python 3.x** installed on your system.
 1.  **Launch the Auditor:**
     
     ```
-    python rtsp-scanner-gui.py
+    python r4w0n-gui.py
     
     ```
     
